@@ -8,5 +8,6 @@
 </head>
 <body>
     Latihan git
+    <p>Mengedit file</p>
 </body>
 </html>
